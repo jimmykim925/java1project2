@@ -1,0 +1,6 @@
+<resources>
+    <string name="item_one">Assassins Creed</string>
+    <string name="item_two">Super Mario</string>
+     <string name="item_three">Call of Duty</string>
+     <string name="item_four">Metal Gear</string>
+</resources>
